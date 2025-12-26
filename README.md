@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# Job Platform Frontend (Flutter)
+
+This is the Flutter frontend for the Job Platform application.
+
+## Features
+- Role-based login (Worker / Customer)
+- Clean UI
+- Flutter + Dart
+
+## Setup
+```bash
+flutter pub get
+flutter run
